@@ -1,12 +1,38 @@
-# React + Vite
+# ⏱ Hakaton Timer (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu loyiha **React.js** yordamida yaratilgan zamonaviy va 100% **responsiv** bo‘lgan **timer ilovasi**dir. O‘qituvchilar, o‘quvchilar, dasturchilar yoki har qanday foydalanuvchi vaqtni boshqarishda foydalanishi mumkin.
 
-Currently, two official plugins are available:
+## 🔍 Ilova haqida
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Hakaton Timer** sizga belgilangan vaqt bo‘yicha sanash imkonini beradi. Vaqt tugagach:
 
-## Expanding the ESLint configuration
+- ⏰ **Signal (audio)** avtomatik chalinadi
+- 🟥 **"Vaqt tugadi"** yozuvi ekranda katta ko‘rinishda chiqadi
+- 🕒 Vaqt tugaguncha **to‘liq ekranli va markaziy** dizaynda ko‘rinadi
+- 🔘 Orqaga qaytish tugmasi yordamida qayta o‘rnatish mumkin
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Asosiy funksiyalar
+
+- ⌛ Soat, minut, sekund kiritish
+- ▶ Timer’ni boshlash
+- ⏹ Timer’ni to‘xtatish yoki reset qilish
+- 🔔 Vaqt tugaganda signal chalish (internet orqali)
+- 💬 "⏰ Vaqt tugadi" yozuvi timer o‘rnida chiqishi
+- 📱 100% responsiv dizayn
+- 🌙 Zamonaviy "dark mode" uslubdagi interfeys
+
+---
+
+## 🛠 Texnologiyalar
+
+- [React.js](https://react.dev/)
+- HTML5 & JSX
+- CSS3 (custom responsive style)
+- JavaScript (timer va eventlar uchun)
+- Onlayn MP3 audio (signal)
+
+---
+
+## 🚀 O‘rnatish
