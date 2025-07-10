@@ -1,0 +1,9 @@
+/* src/App.css */
+.App {
+  min-height: 100vh;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI", sans-serif;
+}
